@@ -27,6 +27,6 @@ This project involves creating an Apache Airflow DAG to automate the loading of 
 ![Screenshot (326)](https://github.com/user-attachments/assets/b9ec7513-9b5f-4b07-8c7e-d79954d3f80b)
 
 ![Screenshot (327)](https://github.com/user-attachments/assets/fe7307ee-10ed-44d3-8830-bbcc7e803350)
-1da51)
+
 
 
