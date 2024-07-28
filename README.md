@@ -24,7 +24,7 @@ This project involves creating an Apache Airflow DAG to automate the loading of 
 # Execution Screenshots
 ![Screenshot (325)](https://github.com/user-attachments/assets/1228d2ef-0c83-41af-9150-80de155c0cec)
 
-![Screenshot (326)](https://github.com/user-attachments/assets/16d8436c-aaed-4935-b8bf-f197b0b)
+![Screenshot (326)](https://github.com/user-attachments/assets/b9ec7513-9b5f-4b07-8c7e-d79954d3f80b)
 
 ![Screenshot (327)](https://github.com/user-attachments/assets/fe7307ee-10ed-44d3-8830-bbcc7e803350)
 1da51)
