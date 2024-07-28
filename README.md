@@ -10,7 +10,7 @@ This project involves creating an Apache Airflow DAG to automate the loading of 
  -Data Archival: Moves processed files to an archive bucket.
  
  # DAG Components
--sense_logistics_file: GCSObjectsWithPrefixExistenceSensor to detect new files.
+ + sense_logistics_file: GCSObjectsWithPrefixExistenceSensor to detect new files.
 -create_hive_database: Creates Hive database if it doesn't exist.
 -create_hive_table: Creates the main Hive table.
 -create_partitioned_table: Creates a partitioned Hive table.
