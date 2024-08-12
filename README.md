@@ -17,7 +17,7 @@ This project involves creating an Apache Airflow DAG to automate the loading of 
  + set_hive_properties_and_load_partitioned: Sets Hive properties and loads data into the partitioned table.
  + archive_processed_file: Moves processed files to an archive bucket.
 
-# Architecture Daigram
+# Architecture Diagram
 
 ![architecture](https://github.com/user-attachments/assets/e18eb209-8c16-4332-a0f7-3f17a8163ee7)
 
